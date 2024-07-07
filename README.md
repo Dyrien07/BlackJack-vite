@@ -1,4 +1,5 @@
 # BlackJack Vite
+Proyecto realizado en curso Javascript Moderno de Fernando Herrera
 
 Pasos para ejecutar proyecto:
 
